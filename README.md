@@ -1,4 +1,4 @@
-Hi 👋 My name is Bradford hovinen
+Hi 👋 My name is Bradford Hovinen
 =================================
 
 Freelance Software Engineer and IT Consultant
