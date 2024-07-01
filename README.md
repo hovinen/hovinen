@@ -1,10 +1,10 @@
 Hi 👋 My name is Bradford Hovinen
 =================================
 
-Freelance Software Engineer and IT Consultant
----------------------------------------------
+Engineering Manager at Holidu GmbH
+----------------------------------
 
-* My business website is [hovinen.tech](https://hovinen.tech)
+* My professional website is [hovinen.tech](https://hovinen.tech)
 * 🌍  I'm based in Munich, Germany
 * ✉️  You can contact me at [info@hovinen.tech](mailto:info@hovinen.tech)
 * 🧠  I'm learning Machine Learning, Reinforcement Learning, GPU programming, and how to run a business
