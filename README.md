@@ -1,8 +1,8 @@
 Hi 👋 My name is Bradford Hovinen
 =================================
 
-Engineering Manager at Holidu GmbH
-----------------------------------
+Freelance software engineer and consultant, blogger, and open source contributor
+--------------------------------------------------------------------------------
 
 * My professional website is [hovinen.tech](https://hovinen.tech)
 * 🌍  I'm based in Munich, Germany
