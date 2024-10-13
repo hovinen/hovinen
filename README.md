@@ -1,7 +1,7 @@
 Hi 👋 My name is Bradford Hovinen
 =================================
 
-Freelance software engineer and consultant, blogger, and open source contributor
+Freelance software engineer, blogger, and open source contributor
 --------------------------------------------------------------------------------
 
 * My professional website is [hovinen.tech](https://hovinen.tech)
