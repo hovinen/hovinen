@@ -4,7 +4,7 @@ Hi 👋 My name is Bradford Hovinen
 Software developer, blogger, and open source contributor
 --------------------------------------------------------------------------------
 
-* My professional website is [hovinen.me](https://hovinen.me)
+* My blog is at [hovinen.me](https://hovinen.me)
 * 🌍  I'm based in Munich, Germany
 * ✉️  You can contact me at [bradford@hovinen.me](mailto:bradford@hovinen.me)
 
