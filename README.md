@@ -1,13 +1,12 @@
 Hi 👋 My name is Bradford Hovinen
 =================================
 
-Freelance software engineer, blogger, and open source contributor
+Software developer, blogger, and open source contributor
 --------------------------------------------------------------------------------
 
-* My professional website is [hovinen.tech](https://hovinen.tech)
+* My professional website is [hovinen.me](https://hovinen.me)
 * 🌍  I'm based in Munich, Germany
-* ✉️  You can contact me at [info@hovinen.tech](mailto:info@hovinen.tech)
-* 🧠  I'm learning Machine Learning, Reinforcement Learning, GPU programming, and how to run a business
+* ✉️  You can contact me at [bradford@hovinen.me](mailto:bradford@hovinen.me)
 
 ### Skills
 
